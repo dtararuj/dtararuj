@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dtararuj
-- 👀 I’m interested in retail.
-- 🌱 I’m currently learning machine learning
+- 👀 I’m already working in retail, where i'm trying to apply algorithms optimizing work and ML. 
+- 🌱 I’m currently learning machine learning.
 - 📫 You can reach me by email: dawidtararuj@10g.pl or LinkedIn https://www.linkedin.com/in/dawid-tararuj/
 
 <!---
